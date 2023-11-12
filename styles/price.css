@@ -1,0 +1,29 @@
+.content h1 {
+  color: rgb(43, 42, 42);
+}
+
+.content table,
+.content th,
+.content td {
+  border: 1px solid #0000007c;
+  border-collapse: collapse;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.content th {
+  font-weight: 600;
+  font-size: 24px;
+}
+
+.content thead {
+  background-color: #1075b9ad;
+}
+
+.content td:nth-child(2n) {
+  color: #576db8;
+}
+
+.content tr:nth-child(2n) {
+  background-color: #fdf8f1;
+}

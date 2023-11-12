@@ -1,0 +1,17 @@
+.content h1 {
+  color: rgb(43, 42, 42);
+}
+
+.content span,
+.content li {
+  font-size: 20px;
+}
+
+.content img {
+  width: 650px;
+}
+
+.content ul {
+  padding: 0px;
+  list-style-type: none;
+}

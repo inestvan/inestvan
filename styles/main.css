@@ -1,0 +1,18 @@
+body {
+  background-image: url("../images/bg.png");
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: initial;
+}
+
+.wrapper {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}

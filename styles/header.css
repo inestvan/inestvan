@@ -1,0 +1,26 @@
+nav {
+  border: 1px solid rgb(235, 224, 224);
+  box-shadow: 2px 2px 2px rgb(147, 145, 189);
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 50px;
+  padding: 4px;
+}
+
+.links-list {
+  list-style-type: none;
+  display: flex;
+}
+
+.links-list li {
+  margin-right: 10px;
+}
+
+.links-list li a {
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(85, 116, 201);
+}
